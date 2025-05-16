@@ -146,7 +146,7 @@ You can just simply run the first part to complete the construction of environme
 After running the second part, and see the result:
 
 ```
-Best Performance with average reward of last 100 episodes: 0.93
+Best Performance with average reward of last 100 episodes: 0.98
 ```
 
 You successfully complete the repetition of the best performance of Dueling DQN, as well as our project!
