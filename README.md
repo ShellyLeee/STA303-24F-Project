@@ -2,9 +2,9 @@
 
 > Project Code Guidance of Artificial Intelligence B in 2024 Fall, Department of Statistics and Data Science, SUSTech
 
-In this project, the course has provided basic DQN and Q-learning algorithms and visualization code.
+In this project, the basic DQN and Q-learning algorithms and visualization code are already provided.
 
-On this basis, we have used DQN to perform hyperparameter analysis, formulated a new strategy for fine-tuning evaluation metric, benefit visualization, and implemented Double DQN and Dueling DQN algorithms to achieve a better performance.
+Based on the given algorithms, we have used DQN to perform hyperparameter analysis, formulated a new strategy for fine-tuning evaluation metric, benefit visualization, and implemented Double DQN and Dueling DQN algorithms to achieve a better performance.
 
 ## Code Structure
 
