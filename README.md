@@ -1,6 +1,6 @@
-# README.md
+# STA303-24F-Project: Reinforce Learning on FrozenLake
 
-> STA303 AI b Project, Group 6's Code Guidance
+> Project Code Guidance of Artificial Intelligence B in 2024 Fall, Department of Statistics and Data Science, SUSTech
 
 In this project, the course has provided basic DQN and Q-learning algorithms and visualization code.
 
